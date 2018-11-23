@@ -1,2 +1,2 @@
-# padejski.github.io
+# Djordje Padejski
 Portfolio website
